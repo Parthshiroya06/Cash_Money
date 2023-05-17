@@ -1,0 +1,25 @@
+export const Colors = {
+  screenBackground: '#FFFFFF',
+  black: '#000000',
+  red: '#E44D4D',
+  blackTransparency: 'rgba(0,0,0,0.5)',
+  lightGrey: '#C4C2CD',
+  offWhite: '#FCFCFC',
+  lightWhite: '#F0F1F2',
+  blue: '#2E98F9',
+  darkBlur: '#346FEA',
+  lightblue: '#EAEEF5',
+  green: '#2AA10A',
+
+  //for Contact Array
+  orangeRed: '#FF4500',
+  darkRed: '#8B0000',
+  crimson: '#DC143C',
+  lightSalmon: '#FFA07A',
+  darkOrange: '#FF8C00',
+  gold: '#FFD700',
+  paleVioletRed: '#DB7093',
+  deepPink: '#FF1493',
+  Indigo: '#4B0082',
+  DarkSlateBlue: '#483D8B',
+};
